@@ -32,6 +32,11 @@ body
     vertical-align: middle;
 }
 
+#cabecera #logo3
+{
+    width: 20px;
+    vertical-align: middle;
+}
 
 #cabecera #tagline
 {
