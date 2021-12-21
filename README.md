@@ -6,4 +6,6 @@ Esto fue creado por Jaime Somohano
 
 Incluye un ejemplo en windows, linux y mac
 
+Disponible para todas las edades
+
 Saludos!
